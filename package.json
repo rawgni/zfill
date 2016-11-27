@@ -1,0 +1,23 @@
+{
+  "name": "zfill",
+  "version": "1.0.0",
+  "description": "Pad string on the left with zero to fill width",
+  "license": "MIT",
+  "repository": "rawgni/zfill",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "zfill",
+    "pad"
+  ],
+  "devDependencies": {
+    "tape": "*"
+  }
+}
